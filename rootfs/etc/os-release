@@ -1,0 +1,5 @@
+NAME=Buildroot
+VERSION=2015.08-git-00937-g5a89512
+ID=buildroot
+VERSION_ID=2015.08-git
+PRETTY_NAME="Buildroot 2015.08-git"
